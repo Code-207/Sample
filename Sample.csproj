@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Company>Tencent</Company>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworks>net45;net5.0</TargetFrameworks>
+    <RollForward>MAJOR</RollForward>
+    <RootNamespace>TencentCloudExamples</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="TencentCloudSDK" Version="*" />
+  </ItemGroup>
+</Project>
