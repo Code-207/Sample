@@ -40,7 +40,7 @@ namespace TencentCloudExamples
             }
             catch (Exception e)
             {
-                Console.WriteLine("主分支".ToString());
+                Console.WriteLine("主分支1".ToString());
                 Console.WriteLine(e.ToString());
             }
             Console.Read();
